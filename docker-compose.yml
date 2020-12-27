@@ -1,6 +1,6 @@
 version: '2'
 
-services:
+services: 
   mongo_empty:
     image: mongo # official image has no sample data
   # rockmongo GUI pointed at empty mongo server
